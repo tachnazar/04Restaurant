@@ -65,6 +65,7 @@ header {height:121px;padding-top:31px;width:100%;overflow:hidden}
 .box h2 {color:#FFCC66;padding:15px 0 12px 0; font-size:30px}
 .box h2 span {color:#faf3ed}
 .box figure {padding-bottom:13px}
+figure img { border: 10px solid #fff; }
 .list1 li a {font-style:italic;padding-left:12px;background:url(../images/marker_1.gif) 1px 8px no-repeat;color:#faf3ed}
 .list_1 {color:#fff}
 .list_1:hover {text-decoration:none}
